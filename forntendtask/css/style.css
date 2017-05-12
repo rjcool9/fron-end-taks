@@ -1,0 +1,170 @@
+*{
+	box-sizing:border-box;
+}
+
+body{
+	margin:0px;
+	padding:0px;
+}
+
+.header{
+	background:  url(../images/Shelby-DWI-lawyers1.jpg) no-repeat fixed;
+	width:100%;
+	height: 500px;
+	background-size: 100% 100%;
+	margin:0px auto;
+}
+.i2{
+	width:100%;
+	height:500px;
+	background-color:#3d3d3c;
+	opacity:0.4;
+}
+
+.navbar{
+	opacity: 0.8;
+}
+.navbar a span{
+	font-size: 30px;
+}
+.headcont{
+	margin:auto;
+	margin-top: 8%;
+	text-align:center;
+	font-family: "Lucida Bright",Georgia,serif;
+}
+.headcont h1{
+	color: #a2920f;
+}
+.headcont span{
+	font-size:30px;
+	color:white;
+}
+.i1{
+	background-color:#a2920f;
+	width: 68%;
+	padding:10px;
+	color:white;
+	font-size:18px;
+	position:absolute;
+	border-radius:5px;
+	top:445px;
+	margin:auto;
+	left:16.5%;
+	opacity:0.9;
+}
+.end{
+	width: 80px;
+	height: 10px;
+	margin:auto;
+	margin-top: 15px;
+	margin-bottom:15px;
+	background-color: #a2920f;
+}
+.header::after{
+	clear:both;
+}
+.o1{
+	margin:0px;
+	padding:3% 4%;
+}
+.i11{
+	margin-top: 50px;	
+}
+.line{
+	width: 80px;
+	height: 5px;
+	background-color: #a2920f;
+	margin-bottom:15px;
+}
+.o1 a{
+	text-decoration:none;
+	color:#a2920f;
+}
+.o2{
+	background-color:#e3e3e2;
+}
+.o2 h1{
+	text-align:center;
+	font-family: "Lucida Bright",Georgia,serif;
+}
+.o3{
+	height:300px;
+	background: url(../images/divorce-lawyer-long-beach-ca.jpg) no-repeat;
+	background-size:100% 100%;
+}
+.o4{
+	margin:0px;
+	padding:2% 3% 1% 3%;
+	background-color: #0d1828;
+	color:white;
+}
+.o4 button{
+	background-color: #a2920f;
+	color:white;
+}
+.o5 img{
+	width:80%;
+	height:200px;
+}
+.name{
+	width:80%;
+	background-color: #a2920f;
+	color:white;
+	padding:2%;
+	font-size:20px;
+	text-align:center;
+}
+.exp{
+	margin-top:30px;
+	
+}
+
+.lin1{
+	width: 30px;
+	height: 5px;
+	background-color: black;
+}
+.ex{
+	color: #a2920f;
+}
+.o6{
+	height:400px;
+	background: url(../images/law-1.jpg) no-repeat;
+	background-size:100% 100%;
+	text-align:center;
+	color:white;
+}
+.o6 img{
+	margin:auto;
+	margin-bottom:30px;
+}
+.o6 h3{
+	color:#a2920f;
+}
+.o6 p span{
+	font-size:30px;
+	color:#a2920f;
+}
+.o7{
+	background-color:#a2920f;
+	color:black;
+	padding:1% 1% 1% 6%;
+	font-size:23px;
+	margin:0px;
+	font-family: "Lucida Bright",Georgia,serif;
+}
+.i3{
+	padding:5%;
+	background-color:white;
+}
+.o8{
+	background-color:#02111a;
+//	color:white;
+}
+.o8 a{
+	margin-right:10px;
+}
+.o8 ul li{
+	margin-top:5px;
+}
